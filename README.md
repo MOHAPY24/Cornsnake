@@ -41,7 +41,7 @@ pip install prompt_toolkit pygments
 Run the REPL:
 
 ```bash
-python3 main.py [flags]
+python3 cornsnake.py [flags]
 ```
 
 Optional flags:
