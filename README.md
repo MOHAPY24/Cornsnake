@@ -29,8 +29,8 @@ to provide syntax highlighting, command history, and advanced features.
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/cornsnake1.git
-cd cornsnake1
+git clone https://github.com/MOHAPY24/Cornsnake.git
+cd Cornsnake
 pip install prompt_toolkit pygments
 ```
 
