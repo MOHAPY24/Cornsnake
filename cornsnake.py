@@ -71,7 +71,7 @@ ir = {
 
 if raw_terminal_mode != True:
     print(Fore.YELLOW + "Cornsnake1 Python REPL")
-    print(Fore.CYAN + "2025 Copyright Mohammed Abdelaal under the MIT License")
+    print(Fore.CYAN + "2025 Copyright Mohammed Abdelaal under the GPL 3.0 License")
     print(Fore.RED + "This is a work in progress")
     os.system("python3 --version")
 
