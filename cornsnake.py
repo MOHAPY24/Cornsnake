@@ -75,7 +75,7 @@ if raw_terminal_mode != True:
 ptr = 0
 
 while True:
-    command = prompt(">> ", lexer=PygmentsLexer(PythonLexer), mouse_support=True)
+    command = prompt(f"[{ptr}] >> ", lexer=PygmentsLexer(PythonLexer), mouse_support=True)
     if ":quit" in command.lower():
         break
     elif ptr >= 20:
