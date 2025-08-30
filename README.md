@@ -31,7 +31,7 @@ Clone this repo and install dependencies:
 ```bash
 git clone https://github.com/MOHAPY24/Cornsnake.git
 cd Cornsnake
-pip install prompt_toolkit pygments
+pip install prompt_toolkit pygments colorama
 ```
 
 ---
